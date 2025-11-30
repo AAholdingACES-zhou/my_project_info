@@ -26,7 +26,7 @@
 > 生成岗位推荐邮件 + 每日9 p.m. 发送至邮箱。
 
 🔗 **项目仓库**：`https://github.com/AAholdingACES-zhou/job-daily-agent-cron`  
-🔗 **Workflow**：`Job_Daily_Agent-Job_Daily_Agent`
+🔗 **Workflow**：`https://www.coze.cn/work_flow?workflow_id=7578184743356874761&space_id=7578173564516696110`
 
 ### ⭐ 项目简介  
 
