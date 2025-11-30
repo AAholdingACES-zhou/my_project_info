@@ -40,18 +40,16 @@ Job Daily Agent 是一个全自动求职助手，会在每天固定时间：
 
 ### 🔧 Workflow 重要结束节点
 
-- ** Coze Workflow**
+- **Coze Workflow**
   - 邮件抓取节点（IMAP）
   - 内容解析与清洗节点（代码块）
   - 岗位识别与结构化抽取（LLM）
   - 岗位匹配与打分（LLM + 规则）
   - 文本生成与邮件发送
+    
 - **GitHub Actions 定时触发**
   - 使用 `cron` 表达式实现每天定时调用 Coze Workflow
   - Action 日志与运行状态通过徽章展示
-- **稳健性设计**
-  - JSON 解析与字段校验
-  - 异常分支（当无岗位或 API 调用失败时提示）
 
 ### 📈 流程图
 
