@@ -108,26 +108,8 @@ Job Daily Agent 是一个全自动求职助手，会在每天固定时间：
 
 ## 📬 联系方式
 
-- 📧 Email：`你的邮箱`
+- 📧 Email：`23210270225@gmail.com`
 - 🌐 GitHub：`https://github.com/AAholdingACES-zhou`
-
----
-
-## 📊 动态效果（GitHub 统计卡片，可选）
-
-> 如果你不想展示，可以把下面这一段删掉。
-
-<p align="center">
-  <a href="https://github.com/AAholdingACES-zhou">
-    <img src="https://github-readme-stats.vercel.app/api?username=AAholdingACES-zhou&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AAholdingACES-zhou">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AAholdingACES-zhou&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
